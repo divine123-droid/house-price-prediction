@@ -1,0 +1,5 @@
+house-price-prediction/
+├── house_price_prediction.ipynb     ← your notebook
+├── README.md                        ← description file
+├── requirements.txt                 ← list of Python libraries
+└── data.csv (optional)              ← if you're using data
