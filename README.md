@@ -1,21 +1,25 @@
 # 🏡 House Price Prediction
 
-This project uses Linear Regression to predict house prices based on square footage and number of bedrooms.
+A simple machine learning project that predicts house prices using Linear Regression based on:
+- Square footage
+- Number of bedrooms
 
-## 🔧 Tools Used
+## 📚 Tech Stack
 - Python
 - Jupyter Notebook
-- Pandas, NumPy, Scikit-learn, Matplotlib
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
-## 📈 How it Works
-1. Load and preprocess dataset
-2. Train a linear regression model
-3. Evaluate using Mean Squared Error
-4. Predict house prices based on features
-
-## 📊 Sample Output
-Predicted price for a 2000 sqft, 3-bedroom house: **$XXX,XXX**
+## 📊 Model
+- Algorithm: Linear Regression
+- Evaluation: Mean Squared Error
 
 ## 🚀 How to Run
-```bash
-pip install -r requirements.txt
+1. Clone this repo
+2. Install packages: `pip install -r requirements.txt`
+3. Open the notebook and run all cells
+
+## 🧠 Author
+[Divine123-droid](https://github.com/divine123-droid)
