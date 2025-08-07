@@ -23,3 +23,8 @@ A simple machine learning project that predicts house prices using Linear Regres
 
 ## 🧠 Author
 [Divine123-droid](https://github.com/divine123-droid)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://house-price-prediction-cggb9g3fauj5jviqnpwf5j.streamlit.app/)
+
+## 🚀 Live Demo
+
+👉 [Click here to view the deployed app on Streamlit](https://house-price-prediction-cggb9g3fauj5jviqnpwf5j.streamlit.app/)
